@@ -2,7 +2,7 @@
 
 # [LinkedIn](https://www.linkedin.com/in/ashok-bashyal-46a870356/)
 
-🛡️ Defensive Security & IT | 🌐 Networking | 🔐 SOC & Active Directory  
+🛡️ Defensive Security & IT | 🌐 Networking | 🔐 SOC | 🌐 Active Directory  
 
 Welcome to my GitHub profile! I focus on **defensive security, IT infrastructure, networking, and SOC operations**, with hands-on experience through labs and practical environments.
 
